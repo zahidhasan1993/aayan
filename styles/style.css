@@ -1,0 +1,38 @@
+.text1{
+    text-align: center;
+    color: white;
+}
+.text2{
+    text-align: center;
+    color: white;
+    margin-bottom: 100px;
+}
+img{
+    height: 200px;
+    width: 200px;
+    padding: 40px 30px 60px;
+}
+h2{
+    
+    padding-top: 35px;
+    padding-left: 20px;
+    
+}
+.div-st{
+    background-color: white;
+    margin: 40px 150px 40px;
+    
+    
+    
+}
+.side{
+    
+    margin-bottom: 130px;
+}
+.center{
+    display: flex;
+    align-items: center;
+}
+.pad{
+    margin-left: 10%;
+}
