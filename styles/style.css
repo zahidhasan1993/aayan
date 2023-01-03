@@ -10,6 +10,7 @@
 img{
     height: 200px;
     width: 200px;
+    max-width: 100%;
     padding: 40px 30px 60px;
 }
 h2{
@@ -26,7 +27,7 @@ h2{
     
 }
 .side{
-    
+    margin-left: 50px;
     margin-bottom: 130px;
 }
 .center{
